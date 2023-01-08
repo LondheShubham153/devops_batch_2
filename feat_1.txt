@@ -1,3 +1,5 @@
 this is feat 1
 
 this is new feature 
+
+this is from remote to create conflict
